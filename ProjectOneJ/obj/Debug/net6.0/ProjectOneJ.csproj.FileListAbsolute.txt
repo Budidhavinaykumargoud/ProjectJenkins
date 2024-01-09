@@ -1,0 +1,14 @@
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\bin\Debug\net6.0\ProjectOneJ.exe
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\bin\Debug\net6.0\ProjectOneJ.deps.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\bin\Debug\net6.0\ProjectOneJ.runtimeconfig.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\bin\Debug\net6.0\ProjectOneJ.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\bin\Debug\net6.0\ProjectOneJ.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\obj\Debug\net6.0\ProjectOneJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\obj\Debug\net6.0\ProjectOneJ.AssemblyInfoInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\obj\Debug\net6.0\ProjectOneJ.AssemblyInfo.cs
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\obj\Debug\net6.0\ProjectOneJ.csproj.CoreCompileInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\obj\Debug\net6.0\ProjectOneJ.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\obj\Debug\net6.0\refint\ProjectOneJ.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\obj\Debug\net6.0\ProjectOneJ.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\obj\Debug\net6.0\ProjectOneJ.genruntimeconfig.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ProjectOneJ\ProjectOneJ\obj\Debug\net6.0\ref\ProjectOneJ.dll
